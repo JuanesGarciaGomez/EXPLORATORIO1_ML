@@ -1,1 +1,1 @@
-import{a}from"EDA-1_-MACHINE-LEARNING/build/_shared/chunk-SZAK5OLM.js";import"EDA-1_-MACHINE-LEARNING/build/_shared/chunk-SWM73M5L.js";import"EDA-1_-MACHINE-LEARNING/build/_shared/chunk-37MEAX4M.js";import"EDA-1_-MACHINE-LEARNING/build/_shared/chunk-OZE3FFNP.js";export default a();
+import{a}from"EXPLORATORIO1_ML/build/_shared/chunk-SZAK5OLM.js";import"EXPLORATORIO1_ML/build/_shared/chunk-SWM73M5L.js";import"EXPLORATORIO1_ML/build/_shared/chunk-37MEAX4M.js";import"EXPLORATORIO1_ML/build/_shared/chunk-OZE3FFNP.js";export default a();

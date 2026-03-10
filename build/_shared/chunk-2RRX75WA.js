@@ -1,1 +1,1 @@
-import{b as i}from"EDA-1_-MACHINE-LEARNING/build/_shared/chunk-7DW7L33J.js";function t(c,e){c.accDescr&&e.setAccDescription?.(c.accDescr),c.accTitle&&e.setAccTitle?.(c.accTitle),c.title&&e.setDiagramTitle?.(c.title)}i(t,"populateCommonDb");export{t as a};
+import{b as i}from"EXPLORATORIO1_ML/build/_shared/chunk-7DW7L33J.js";function t(c,e){c.accDescr&&e.setAccDescription?.(c.accDescr),c.accTitle&&e.setAccTitle?.(c.accTitle),c.title&&e.setDiagramTitle?.(c.title)}i(t,"populateCommonDb");export{t as a};

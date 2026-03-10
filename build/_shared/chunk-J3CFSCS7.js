@@ -1,1 +1,1 @@
-import{b as t}from"EDA-1_-MACHINE-LEARNING/build/_shared/chunk-7DW7L33J.js";var s=class{constructor(i){this.init=i,this.records=this.init()}static{t(this,"ImperativeState")}reset(){this.records=this.init()}};export{s as a};
+import{b as t}from"EXPLORATORIO1_ML/build/_shared/chunk-7DW7L33J.js";var s=class{constructor(i){this.init=i,this.records=this.init()}static{t(this,"ImperativeState")}reset(){this.records=this.init()}};export{s as a};
